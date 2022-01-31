@@ -7,3 +7,5 @@ Bubble Sort
 Quicksort
 <br/>
 Incersion Sort
+<br/>
+Merge Sort (Kinda Buggy)
