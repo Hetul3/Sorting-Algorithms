@@ -5,3 +5,5 @@ My attempt at implementing and visualizing some famous sorting algorithms.
 Bubble Sort
 <br/>
 Quicksort
+<br/>
+Incersion Sort
