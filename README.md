@@ -8,4 +8,6 @@ Quicksort
 <br/>
 Insersion Sort
 <br/>
+Selection Sort
+<br/>
 Merge Sort (Kinda Buggy)
