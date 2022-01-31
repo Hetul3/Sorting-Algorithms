@@ -6,6 +6,6 @@ Bubble Sort
 <br/>
 Quicksort
 <br/>
-Incersion Sort
+Insersion Sort
 <br/>
 Merge Sort (Kinda Buggy)
