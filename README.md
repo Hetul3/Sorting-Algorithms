@@ -2,5 +2,4 @@
 My attempt at implementing and visualizing some famous sorting algorithms.
 # Additions so Far
 <br/>
-<br/>
 Bubble Sort
